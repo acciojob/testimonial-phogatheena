@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.one
+{
+	background-color:white;
+	border:1px solid black;	
+	padding:10px;
+}
